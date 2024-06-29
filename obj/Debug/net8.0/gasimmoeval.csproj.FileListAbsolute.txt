@@ -1,0 +1,7 @@
+D:\gasimmoeval\obj\Debug\net8.0\gasimmoeval.GeneratedMSBuildEditorConfig.editorconfig
+D:\gasimmoeval\obj\Debug\net8.0\gasimmoeval.AssemblyInfoInputs.cache
+D:\gasimmoeval\obj\Debug\net8.0\gasimmoeval.AssemblyInfo.cs
+D:\gasimmoeval\obj\Debug\net8.0\gasimmoeval.csproj.CoreCompileInputs.cache
+D:\gasimmoeval\obj\Debug\net8.0\gasimmoeval.MvcApplicationPartsAssemblyInfo.cache
+D:\gasimmoeval\obj\Debug\net8.0\gasimmoeval.RazorAssemblyInfo.cache
+D:\gasimmoeval\obj\Debug\net8.0\gasimmoeval.RazorAssemblyInfo.cs
