@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gasimmoeval")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c227cf8c0b9fbefa0360e27765575d02dc5144f")]
 [assembly: System.Reflection.AssemblyProductAttribute("gasimmoeval")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gasimmoeval")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
